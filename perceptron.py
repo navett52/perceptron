@@ -1,5 +1,9 @@
 import numpy as np
 
+'''
+Evan Tellep
+An implementation of the perceptron model.
+'''
 class Perceptron():
     def __init__(self):
         np.random.seed(1)
